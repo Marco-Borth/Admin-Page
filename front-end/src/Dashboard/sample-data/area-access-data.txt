@@ -1,0 +1,12 @@
+All Access Area		10	2
+Annex - County Auditor Office		6	
+Annex - County Clerk Office		4	2
+Annex - Elections Office		1	2
+Annex - HR Office		3	1
+Annex - Treasurer		1	2
+Courthouse County Court-at-Law		2	4
+Courthouse District Courtroom		2	4
+Courthouse Evidence Room		4	2
+Courthouse IT		4	5
+Courthouse Law Library		6	4
+Courthouse Maintenance		2	1

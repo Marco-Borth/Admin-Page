@@ -1,0 +1,15 @@
+Annex - Entrances	Unlocked	Normal	5/16 1:01pm	5/16 5:00pm	Schedule
+
+Annex - HR Public	Locked	Normal	5/16 12:00pm	5/17 08:30am	Key Access
+
+Annex - Treasurer Public	Unlocked	Normal	5/16 1:01pm	5/16 5:00pm	Key Access
+
+Courthouse - Atrium	Unlocked	Normal	5/16 6:01am	5/16 9:01pm	Schedule
+
+Courthouse - Entrances	Unlocked	Normal	5/16 7:01am	5/16 7:01pm	Schedule
+
+Fire Station Public Access	Unlocked	Normal	5/16 1:01pm	5/16 6:01pm	Key Access
+
+Health Department Cafeteria	Locked	Normal	5/16 2:00pm	5/16 11:00am	Schedule
+
+Health Department Fronts	Unlocked	Normal	5/16 1:01pm	5/16 6:01pm	Key Access

@@ -1,0 +1,44 @@
+.secureAccessTag {
+    font-size:small;
+    text-align:center;
+    margin-top: -10px;
+    color: black;
+}
+  
+.main-sidebar {
+    float: left;
+    position: relative;
+    height: 94.2vh;
+    top: 0px;
+    background-color: #404040;
+}
+
+.brand-link {
+    font-family: "Times New Roman", Helvetica, Arial;
+    font-weight: bold;
+    width: inherit;
+    display:inline-block;
+    vertical-align: middle;
+    background-color: #CCCCCC;
+}
+
+.imagebtnLogo {
+    height:35px;
+    vertical-align:top;
+    float: left;
+}
+
+.imageText {
+    vertical-align: middle;
+}
+
+.nav-header{
+    text-align: left;
+    background-color: #606060;
+}
+
+.nav-link{
+    text-align: left;
+    color: #AAAAAA;
+    background-color: #FFFFFF;
+}

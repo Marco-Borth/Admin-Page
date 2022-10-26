@@ -1,0 +1,6 @@
+.content-wrapper {
+    float: center;
+    position: relative;
+    height: 91.7vh;
+    overflow: auto;
+}

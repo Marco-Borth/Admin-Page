@@ -1,0 +1,7 @@
+.control-sidebar {
+    float:right;
+    position: relative;
+    height: inherit;
+    min-height: 100%;
+    top: 0px;
+  }
