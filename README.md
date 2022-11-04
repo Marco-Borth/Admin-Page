@@ -1,2 +1,2 @@
 # admin page
-Admin Web App Project Design.
+Admin Web App React Project Design.
