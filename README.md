@@ -1,2 +1,2 @@
 # cpadmin
-Common Pass Admin Web App Project Restoration.
+Admin Web App Project Design.
