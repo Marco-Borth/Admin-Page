@@ -8,7 +8,6 @@ export class Navbar extends React.Component {
     render(){
         return(
             <aside class="main-sidebar">
-                <LogoBox/>
                 <div class="sidebar">
                     <nav class="mt-0">
                         <ul class="nav nav-pills nav-sidebar flex-column nav-child-indent" data-widget="treeview" role="menu" data-accordion="false">                       
@@ -23,24 +22,6 @@ export class Navbar extends React.Component {
                     </nav>
                 </div>
             </aside> 
-        );
-    };
-}
-
-class LogoBox extends React.Component {
-    render(){
-        return(
-            <a href="./home" class="brand-link">
-                <div>
-                    <img class="imagebtnLogo float-left"></img> 
-                    <div class ="imageText float-left">
-                        <h4> Common Pass </h4>
-                        <div class="secureAccessTag">
-                            Secure Access
-                        </div>
-                    </div>
-                </div>
-            </a>
         );
     };
 }

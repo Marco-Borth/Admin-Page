@@ -7,7 +7,7 @@ import { GroupAccess } from './GroupAccess/GroupAccess.js';
 import { AreaAccess } from './AreaAccess/AreaAccess.js';
 import { ControlSidebar } from './Navigation/ControlSidebar.js';
 
-export class CPAdmin extends React.Component {
+export class Admin extends React.Component {
   constructor(props) {
     super(props);
   
