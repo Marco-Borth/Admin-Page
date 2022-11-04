@@ -1,19 +1,5 @@
 import React from 'react';
 
-export function Footer() {
-    var currentDate = new Date()
-  
-    return(
-        <footer class="main-footer">
-            <div class="float-right d-none d-sm-inline"> &nbsp; </div>
-            <strong>
-                Copyright &copy; 2016-{currentDate.getFullYear()}  <a href="https://commonpass.i-info.com">Common Pass</a>.
-                All rights reserved.
-            </strong> 
-        </footer>
-    );
-}
-
 export class InputBox extends React.Component {
     constructor(props) {
         super(props);
